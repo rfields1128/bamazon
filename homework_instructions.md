@@ -83,7 +83,8 @@ Having an active and healthy commit history on GitHub is important for your futu
 
 ### Challenge #2: Manager View (Next Level)
 
-* Create a new Node application called `bamazonManager.js`. Running this application will:
+* Create a new Node application calle
+d `bamazonManager.js`. Running this application will:
 
   * List a set of menu options:
 
